@@ -2,10 +2,10 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: cabin.png
+img: DSC_0237.jpg
 alt: image-alt
 store: Aerodrom
-title: Аеродром Куче 2
+title: Аеродром Слика 1
 images:
     - Apple
     - Orange

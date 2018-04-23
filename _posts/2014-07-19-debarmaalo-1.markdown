@@ -2,10 +2,10 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: cabin.png
+img: DSC_0233.jpg
 alt: image-alt
-store: Centar
-title: Центар Куче 3
+store: DebarMaalo
+title: Дебар Маало Слика 1
 images:
     - Apple
     - Orange

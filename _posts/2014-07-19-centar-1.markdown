@@ -2,10 +2,10 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: cabin.png
+img: DSC_0238.jpg
 alt: image-alt
-store: Karposh
-title: Карпош Куче 1
+store: Centar
+title: Центар Слика 1
 images:
     - Apple
     - Orange
