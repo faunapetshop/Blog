@@ -463,3 +463,8 @@ footer .footer-below {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
 }
+
+.portfolio-item {
+	height: 240px !important;
+	overflow: hidden;
+}

@@ -2,7 +2,7 @@
 layout: default
 modal-id: 4
 date: 2014-07-18
-img: DSC_0237.jpg
+img: aerodrom/DSC_0352.jpg
 alt: image-alt
 store: Aerodrom
 title: Аеродром Слика 1
