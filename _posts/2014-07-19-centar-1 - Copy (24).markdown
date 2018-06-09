@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 1
+modal-id: 41
 date: 2014-07-18
 img: centar/DSC_0307.jpg
 alt: image-alt
